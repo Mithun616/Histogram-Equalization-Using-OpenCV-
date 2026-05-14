@@ -210,7 +210,8 @@ plt.show()
 - Enhanced image after HSV-based equalization is displayed  
 - Histogram of enhanced image shows better intensity distribution
 - 
-<img width="946" height="769" alt="image" src="https://github.com/user-attachments/assets/ae37e1a7-3c7a-49d3-a5ac-3bf5410685ea" />
+<img width="892" height="673" alt="image" src="https://github.com/user-attachments/assets/5c1acad9-b478-4a86-bf81-acc0b4a96dd5" />
+
 
 ---
 
